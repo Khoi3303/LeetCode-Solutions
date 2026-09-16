@@ -8,7 +8,7 @@ A curated collection of LeetCode solutions implemented in **JavaScript (Node.js)
 
 | Category | Solved | Target |
 | :--- | :---: | :---: |
-| **Arrays & Hashing** | 1 | 20 |
+| **Arrays & Hashing** | 2 | 20 |
 | **Two Pointers** | 0 | 10 |
 | **Sliding Window** | 0 | 10 |
 | **Stack & Queues** | 0 | 10 |
@@ -24,6 +24,7 @@ A curated collection of LeetCode solutions implemented in **JavaScript (Node.js)
 | # | Problem | Difficulty | Solution | Time | Space |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | `Easy` | [Code & Notes](./Arrays-Hashing/0001-two-sum/) | $O(N)$ | $O(N)$ |
+| 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | `Easy` | [Code & Notes](./Arrays-Hashing/0217-contains-duplicate/) | $O(N)$ | $O(N)$ |
 
 ### 2. Two Pointers
 | # | Problem | Difficulty | Solution | Time | Space |
