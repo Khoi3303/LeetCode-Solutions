@@ -14,7 +14,7 @@ A curated collection of LeetCode solutions implemented in **JavaScript (Node.js)
 | **Stack & Queues** | 0 | 10 |
 | **Binary Search** | 0 | 10 |
 | **Trees & Graphs** | 0 | 25 |
-| **Total** | **1** | **85** |
+| **Total** | **2** | **85** |
 
 ---
 
