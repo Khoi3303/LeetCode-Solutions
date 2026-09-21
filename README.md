@@ -8,13 +8,13 @@ A curated collection of LeetCode solutions implemented in **JavaScript (Node.js)
 
 | Category | Solved | Target |
 | :--- | :---: | :---: |
-| **Arrays & Hashing** | 3 | 20 |
+| **Arrays & Hashing** | 5 | 20 |
 | **Two Pointers** | 0 | 10 |
 | **Sliding Window** | 0 | 10 |
 | **Stack & Queues** | 0 | 10 |
 | **Binary Search** | 0 | 10 |
 | **Trees & Graphs** | 0 | 25 |
-| **Total** | **3** | **85** |
+| **Total** | **5** | **85** |
 
 ---
 
@@ -26,6 +26,8 @@ A curated collection of LeetCode solutions implemented in **JavaScript (Node.js)
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | `Easy` | [Code & Notes](./Arrays-Hashing/0001-two-sum/) | $O(N)$ | $O(N)$ |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | `Easy` | [Code & Notes](./Arrays-Hashing/0217-contains-duplicate/) | $O(N)$ | $O(N)$ |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | `Easy` | [Code & Notes](./Arrays-Hashing/0242-valid-anagram/) | $O(N)$ | $O(1)$ |
+| 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | `Medium` | [Code & Notes](./Arrays-Hashing/0049-group-anagrams/) | $O(N \cdot K \log K)$ | $O(N \cdot K)$ |
+| 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | `Medium` | [Code & Notes](./Arrays-Hashing/0347-top-k-frequent-elements/) | $O(N)$ | $O(N)$ |
 
 ### 2. Two Pointers
 | # | Problem | Difficulty | Solution | Time | Space |
