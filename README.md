@@ -8,13 +8,13 @@ A curated collection of LeetCode solutions implemented in **JavaScript (Node.js)
 
 | Category | Solved | Target |
 | :--- | :---: | :---: |
-| **Arrays & Hashing** | 5 | 20 |
+| **Arrays & Hashing** | 7 | 20 |
 | **Two Pointers** | 0 | 10 |
 | **Sliding Window** | 0 | 10 |
 | **Stack & Queues** | 0 | 10 |
 | **Binary Search** | 0 | 10 |
 | **Trees & Graphs** | 0 | 25 |
-| **Total** | **5** | **85** |
+| **Total** | **7** | **85** |
 
 ---
 
@@ -28,6 +28,8 @@ A curated collection of LeetCode solutions implemented in **JavaScript (Node.js)
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | `Easy` | [Code & Notes](./Arrays-Hashing/0242-valid-anagram/) | $O(N)$ | $O(1)$ |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | `Medium` | [Code & Notes](./Arrays-Hashing/0049-group-anagrams/) | $O(N \cdot K \log K)$ | $O(N \cdot K)$ |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | `Medium` | [Code & Notes](./Arrays-Hashing/0347-top-k-frequent-elements/) | $O(N)$ | $O(N)$ |
+| 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | `Medium` | [Code & Notes](./Arrays-Hashing/0238-product-of-array-except-self/) | $O(N)$ | $O(1)$ |
+| 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | `Medium` | [Code & Notes](./Arrays-Hashing/0128-longest-consecutive-sequence/) | $O(N)$ | $O(N)$ |
 
 ### 2. Two Pointers
 | # | Problem | Difficulty | Solution | Time | Space |
