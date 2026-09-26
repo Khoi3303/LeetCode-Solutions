@@ -9,12 +9,12 @@ A curated collection of LeetCode solutions implemented in **JavaScript (Node.js)
 | Category | Solved | Target |
 | :--- | :---: | :---: |
 | **Arrays & Hashing** | 7 | 20 |
-| **Two Pointers** | 2 | 10 |
+| **Two Pointers** | 3 | 10 |
 | **Sliding Window** | 0 | 10 |
-| **Stack & Queues** | 0 | 10 |
+| **Stack & Queues** | 2 | 10 |
 | **Binary Search** | 0 | 10 |
 | **Trees & Graphs** | 0 | 25 |
-| **Total** | **9** | **85** |
+| **Total** | **12** | **85** |
 
 ---
 
@@ -47,6 +47,7 @@ A curated collection of LeetCode solutions implemented in **JavaScript (Node.js)
 | # | Problem | Difficulty | Solution | Time | Space |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | `Easy` | [Code & Notes](./Stack-Queues/0020-valid-parentheses/) | $O(N)$ | $O(N)$ |
+| 0155 | [Min Stack](https://leetcode.com/problems/min-stack/) | `Medium` | [Code & Notes](./Stack-Queues/0155-min-stack/) | $O(1)$ | $O(N)$ |
 
 ---
 
