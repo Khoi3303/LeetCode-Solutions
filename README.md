@@ -9,12 +9,12 @@ A curated collection of LeetCode solutions implemented in **JavaScript (Node.js)
 | Category | Solved | Target |
 | :--- | :---: | :---: |
 | **Arrays & Hashing** | 7 | 20 |
-| **Two Pointers** | 0 | 10 |
+| **Two Pointers** | 2 | 10 |
 | **Sliding Window** | 0 | 10 |
 | **Stack & Queues** | 0 | 10 |
 | **Binary Search** | 0 | 10 |
 | **Trees & Graphs** | 0 | 25 |
-| **Total** | **7** | **85** |
+| **Total** | **9** | **85** |
 
 ---
 
@@ -34,12 +34,19 @@ A curated collection of LeetCode solutions implemented in **JavaScript (Node.js)
 ### 2. Two Pointers
 | # | Problem | Difficulty | Solution | Time | Space |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| — | *Upcoming* | — | — | — | — |
+| 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | `Easy` | [Code & Notes](./Two-Pointers/0125-valid-palindrome/) | $O(N)$ | $O(1)$ |
+| 0167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | `Medium` | [Code & Notes](./Two-Pointers/0167-two-sum-ii-input-array-is-sorted/) | $O(N)$ | $O(1)$ |
+| 0015 | [3Sum](https://leetcode.com/problems/3sum/) | `Medium` | [Code & Notes](./Two-Pointers/0015-3sum/) | $O(N^2)$ | $O(1)$ |
 
 ### 3. Sliding Window
 | # | Problem | Difficulty | Solution | Time | Space |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | — | *Upcoming* | — | — | — | — |
+
+### 4. Stack & Queues
+| # | Problem | Difficulty | Solution | Time | Space |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | `Easy` | [Code & Notes](./Stack-Queues/0020-valid-parentheses/) | $O(N)$ | $O(N)$ |
 
 ---
 
