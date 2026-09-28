@@ -10,11 +10,11 @@ A curated collection of LeetCode solutions implemented in **JavaScript (Node.js)
 | :--- | :---: | :---: |
 | **Arrays & Hashing** | 7 | 20 |
 | **Two Pointers** | 4 | 10 |
-| **Sliding Window** | 1 | 10 |
+| **Sliding Window** | 2 | 10 |
 | **Stack & Queues** | 3 | 10 |
 | **Binary Search** | 0 | 10 |
 | **Trees & Graphs** | 0 | 25 |
-| **Total** | **15** | **85** |
+| **Total** | **16** | **85** |
 
 ---
 
@@ -43,6 +43,7 @@ A curated collection of LeetCode solutions implemented in **JavaScript (Node.js)
 | # | Problem | Difficulty | Solution | Time | Space |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | `Easy` | [Code & Notes](./Sliding-Window/0121-best-time-to-buy-and-sell-stock/) | $O(N)$ | $O(1)$ |
+| 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | `Medium` | [Code & Notes](./Sliding-Window/0003-longest-substring-without-repeating-characters/) | $O(N)$ | $O(\min(N, M))$ |
 
 ### 4. Stack & Queues
 | # | Problem | Difficulty | Solution | Time | Space |
